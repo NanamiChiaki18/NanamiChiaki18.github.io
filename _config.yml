@@ -4,7 +4,7 @@ title: Blog
 # 选项卡标题
 SEOTitle: 炎千秋的博客 | NanamiChiaki18‘s Blog
 # 首页背景图片
-header-img: img/Nanami1.png
+header-img: img/apple-touch-icon.png
 # 邮箱设置
 email: 929632514@qq.com
 # 网站介绍
@@ -22,7 +22,7 @@ sidebar: true
 # 侧边栏描述语句
 sidebar-about-description: "知识就是力量。"
 # 侧边栏头像
-sidebar-avatar: /img/Nanami2.png
+sidebar-avatar: /img/apple-touch-icon.png
 
 ## 社交网站设置
 RSS: false
@@ -85,7 +85,7 @@ gitalk:
 # Google Analytics
 ga_track_id: 'UA-135281137-1'
 # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
-ga_domain: https://aigq.me
+ga_domain: auto
 
 ## 标签设置
 # 是否使用首页标签
