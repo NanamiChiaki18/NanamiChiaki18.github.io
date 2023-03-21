@@ -2,7 +2,7 @@
 # 标题
 title: Blog
 # 选项卡标题
-SEOTitle: 周大路的博客 | SuperZhouDalu‘s Blog
+SEOTitle: 炎千秋的博客 | NanamiChiaki18‘s Blog
 # 首页背景图片
 header-img: img/Nanami1.png
 # 邮箱设置
@@ -27,15 +27,15 @@ sidebar-avatar: /img/Nanami2.png
 ## 社交网站设置
 RSS: false
 # 微博 打开个人主页截取用户编号 例如个人主页网址为https://weibo.com/u/5089298519 填写 5089298519
-weibo_username:     5089298519
+#weibo_username:     5089298519
 # 知乎个人页面 填写用户名
-zhihu_username:     Zhoudalu
+#zhihu_username:     Zhoudalu
 # GitHub个人页面 填写用户名
-github_username:    superZhouDaLu
+github_username:    NanamiChiaki18
 # facebook个人页面 填写用户名
 #facebook_username:  100024292873470
 # 简书个人页面截取用户编号 与微博同理
-jianshu_username:   56a2c6b6027c
+#jianshu_username:   56a2c6b6027c
 # twitter个人页面 填写用户名
 #twitter_username:   zhoudalu
 
