@@ -4,15 +4,15 @@ title: Blog
 # 选项卡标题
 SEOTitle: 周大路的博客 | SuperZhouDalu‘s Blog
 # 首页背景图片
-header-img: img/post-bg-debug.png
+header-img: img/Nanami1.png
 # 邮箱设置
-email: zhoujianlu666@gmail.com
+email: 929632514@qq.com
 # 网站介绍
 description: "I guess it comes down to a simple choice:get busy living or get busy dying."
 # 关键词
 keyword: "Java, Kotlin, Android, Vue.js, Apple, iPhone"
 # 博客访问链接
-url: "https://aigq.me"
+url: "https://NanamiChiaki18.github.io"
 # '/blog' if your blog hosted on 'host/blog'
 baseurl: ""
 
@@ -22,7 +22,7 @@ sidebar: true
 # 侧边栏描述语句
 sidebar-about-description: "知识就是力量。"
 # 侧边栏头像
-sidebar-avatar: /img/sidebar-avatar.jpg
+sidebar-avatar: /img/Nanami2.png
 
 ## 社交网站设置
 RSS: false
